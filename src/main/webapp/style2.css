@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+body{
+    background-image: url('4k.jpg');
+    background-size: cover;
+     
+}
+
+label{
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-size: 2.3em;
+    opacity: .7;
+    transition: opacity .3s ease;
+    padding:30px;
+    border-color:rgb(102, 0, 128);
+    bottom:900px;
+    
+    left: 600px;
+}

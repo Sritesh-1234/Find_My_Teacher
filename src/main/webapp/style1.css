@@ -1,0 +1,96 @@
+@charset "ISO-8859-1";
+body{
+    background-image: url('4k.jpg');
+    background-size: cover;
+     
+}
+
+
+
+.control input{
+    background: rgb(5, 238, 250);
+    color:white;
+    text-transform: uppercase;
+    font-size: 2em;
+    opacity: .7;
+    transition: opacity .3s ease;
+    padding: 63px;
+    border-color: aqua;
+    border-radius: 30px;
+    position: relative;
+    left: 60px;
+    top:435px;
+    width: 10cm;
+    height: 4.3cm;
+    text-align: center;
+
+    
+    
+}
+
+.control2 input{
+    background:green;
+    color:white;
+    text-transform: uppercase;
+    font-size: 2em;
+    opacity: .7;
+    transition: opacity .3s ease;
+    padding:60px;
+    border-color:green;
+    top:560px;
+    position: relative;
+    left: 56%;
+    border-radius: 30px;
+    border-top: 30px;
+    width: 10cm;
+   
+}
+
+
+.control3 input{
+    background:rgb(0, 109, 128);
+    color:white;
+    text-transform: uppercase;
+    font-size: 2em;
+    transition: opacity .3s ease;
+    padding:60px;
+    border-color:rgb(2, 99, 125);
+     top:400px;
+    position: relative;
+    left: 60px;
+    border-radius: 30px;
+    width: 10cm;
+    
+    
+}
+
+.control4 input{
+    background:rebeccapurple;
+    color:white;
+    text-transform: uppercase;
+    font-size: 2em;
+    opacity: .7;
+    transition: opacity .3s ease;
+    padding:60px;
+    border-color:rgb(102, 0, 128);
+    bottom:40px;
+    position: relative;
+    left: 56%;
+    border-radius: 30px;
+    width: 10cm;
+    
+}
+label{
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-size: 2.3em;
+    opacity: .7;
+    transition: opacity .3s ease;
+    padding:60px;
+    border-color:rgb(102, 0, 128);
+    bottom:600px;
+    position: relative;
+    border-radius: 30px;   
+
+}
+
